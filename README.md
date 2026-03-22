@@ -92,9 +92,41 @@ if submit:
     answer = rag_chain.invoke(query)
     st.success(f"질문: {query}\n\n답변: {answer.content}")
 
+
+⚙️ 실행 방법 (한 번에 따라하기)
+1️⃣ Conda 가상환경 생성
+conda create -n py310 python=3.10
+
+2️⃣ 가상환경 활성화
+conda activate py310
+
+3️⃣ 프로젝트 클론
+git clone https://github.com/your-repo/rag-chatbot.git
+cd rag-chatbot
+
+4️⃣ 패키지 설치
+pip install -r requirements.txt
+
+5️⃣ 환경변수 설정 (.env)
+OPENAI_API_KEY=your_api_key_here
+
+6️⃣ 실행 (Streamlit)
+streamlit run app.py
+
+👉 브라우저에서 자동 실행: http://localhost:8501
+
+📦 requirements.txt
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+streamlit
+python-dotenv
+pypdf
+
 🖥️ 실행 화면
-질문 입력
-교과서 기반 답변 출력
+<img width="905" height="626" alt="image" src="https://github.com/user-attachments/assets/020a6084-8146-41bd-96ba-bfbb6bb95fea" />
+
 
 👉 학생용 AI 튜터로 활용 가능
 
@@ -103,6 +135,7 @@ if submit:
 데이터과학 개념 질의응답
 수행평가 보조 도구
 자기주도 학습 지원
+
 ✔ 프로젝트 확장
 여러 교과서 통합 RAG
 문제 생성 기능 추가
