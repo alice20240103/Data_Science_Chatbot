@@ -129,6 +129,19 @@ pypdf
 <img src ="https://github.com/user-attachments/assets/a19a315a-af69-404b-84f6-0080970f2790">
 
 
+-------------------------------------------
+## 속도향상 위해서 코드 분리
+<img width="744" height="462" alt="image" src="https://github.com/user-attachments/assets/2e34cb83-6c49-43b1-ab44-c74a73bfd8cb" />
+
+
+** 실행화면
+<img width="836" height="662" alt="image" src="https://github.com/user-attachments/assets/7cb98c30-e2f0-43a3-a618-773831db3138" />
+
+
+-------------------------------------------
+
+
+
 👉 학생용 AI 튜터로 활용 가능
 
 🎯 교육 활용 아이디어
