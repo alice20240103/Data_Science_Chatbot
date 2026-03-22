@@ -49,7 +49,7 @@ LangChain + OpenAI + FAISS + Streamlit을 활용하여 구현되었습니다.
 
 ```bash
 pip install langchain langchain-community langchain-openai faiss-cpu streamlit python-dotenv
-
+```
 
 2️⃣ 환경 변수 설정 (.env)
 OPENAI_API_KEY=your_api_key_here
