@@ -140,6 +140,15 @@ pypdf
 
 -------------------------------------------
 
+## PDF 문서 추가 하기 (3학년 인공지능)
+
+** 핵심코드
+newBook.py 참조
+
+
+** 실행화면
+<img width="960" height="785" alt="image" src="https://github.com/user-attachments/assets/5be15e86-e3d8-452a-b229-f3595e0e7526" />
+
 
 
 👉 학생용 AI 튜터로 활용 가능
