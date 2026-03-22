@@ -126,7 +126,7 @@ pypdf
 
 🖥️ 실행 화면
 
-<img width="873" height="639" alt="r" src="https://github.com/user-attachments/assets/a19a315a-af69-404b-84f6-0080970f2790" />
+<img src ="https://github.com/user-attachments/assets/a19a315a-af69-404b-84f6-0080970f2790" />
 
 
 👉 학생용 AI 튜터로 활용 가능
